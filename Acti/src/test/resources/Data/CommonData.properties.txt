@@ -1,0 +1,3 @@
+Url http://localhost/login.do
+usename Admin
+Password manager
